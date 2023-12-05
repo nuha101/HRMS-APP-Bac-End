@@ -6,10 +6,9 @@ HRMS systems can help businesses to automate tasks, streamline processes, and im
 1. [Class Diagram For HRMS](#class-diagram-for-hrms)
 2. [Setup](#setup)
 3. [Controllers and Routes structure](#controllers-and-routes-structure)
-4. [Extra links(Trello, Presentation Slides, etc…)](#extra-links)
-5. [Future Work](#future-work)
-6. [Resources](#resources)
-7. [Owner](#owner)
+4. [Future Work](#future-work)
+5. [Resources](#resources)
+6. [Owner](#owner)
 
 ## Class Diagram For HRMS:
 
@@ -43,9 +42,6 @@ HRMS systems can help businesses to automate tasks, streamline processes, and im
    * `/hrms/employees/isAdmin/2`: Update employee's isAdmin 
    * `/hrms/employee/29`:Delete employee
    
-
-## Extra links:
-* [My presentation on slides.com](https://slides.com/nuhaalansari/desk-f2b062/fullscreen)
 ## Future Work:
 
 Add new features like: following up employees' attendance and vacations, update employees' salaries based on their achievements and upgrades. 
